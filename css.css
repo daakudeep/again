@@ -1,0 +1,122 @@
+.fullset{
+position:relative;
+left: 50%;
+top: 10%;
+width: 700px;  
+border: 3px solid #b0d4f1;  
+padding: 3px;
+padding-top: 8px;
+}
+.set1{
+background-color: #4682b4;
+font-weight: bolder;
+
+
+}
+.logo1{
+    position:absolute;
+    top:17px;
+    left:7%
+}
+.logo2,.logo3{
+    text-align: center;
+    color: white;
+    height: 25px;
+    
+}
+.logo2{
+    font-size: 26px;
+    padding-bottom: 9px;
+    padding-top: 10px;
+}
+.logo3{
+    padding-bottom: 9px;
+    font-size:15px ;
+    
+}
+.set5{
+    background-color:rgb(209, 214, 205);
+    padding-bottom: 8%;
+}
+.wlcm{
+    font-size: 28px;
+    font-family: arial,Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10%;
+}
+.usrpwd{
+    text-align: center;
+    font-size: 22px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    padding-bottom: 8%;
+}
+.usr{
+    font-size: 20px;
+    font-family: arial,Arial, Helvetica, sans-serif;
+    position: relative;
+    left: 18%;
+}
+.pwd{
+font-size: 20px;
+font-family: arial,Arial, Helvetica, sans-serif;
+position: relative;
+left: 18%;
+padding-top: 3%;
+}
+
+.box1,.box2{
+    position: relative;
+    left:1%;
+    width: 43%;
+    height: 22px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+.btn{
+    border-radius: 3px;   
+    position:relative;
+    left: 70%;
+    height: 30px;
+    width: 100px;
+    color: black;
+    font-size: 16px;
+    border: 1px solid black;
+}
+.btn1{
+    padding-top: 5%;
+    padding-bottom: 8%;
+}
+.mrq{
+    color: rgb(25, 25, 252);
+    font-family: arial;
+    width: 600px;
+    font-weight: bolder;
+} 
+.note,.inst,.foot{
+    color: red;
+    position: relative;
+    left: 90px;
+    font-family: arial;
+    font-weight: bolder;
+}
+.ssl{
+    position:relative;
+    left: 90px;
+    font-family: arial;
+}
+.list1,.list2{
+    position: relative;
+    left:90px;
+    font-family:arial;
+}
+.link1,.link2,.link3,.link4{
+    color: blue;
+    font-family: arial;
+}
+.link4{
+    position: absolute;
+    right: 290px;
+}
